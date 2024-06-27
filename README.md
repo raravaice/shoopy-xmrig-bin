@@ -1,3 +1,2 @@
 # xmrig-bin
-xmrig is
-The aim is compiling different version of xmrig
+The aim is to have different types of xmrig binary.
